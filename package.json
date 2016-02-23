@@ -1,0 +1,27 @@
+{
+  "name": "galvanize_war_room",
+  "version": "0.0.1",
+  "description": "galvanize assessment",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5",
+    "unirest": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennbbennett/galvanize_war_room.git"
+  },
+  "author": "jennbbennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennbbennett/galvanize_war_room/issues"
+  },
+  "homepage": "https://github.com/jennbbennett/galvanize_war_room#readme"
+}
